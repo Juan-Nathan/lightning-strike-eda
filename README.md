@@ -12,9 +12,9 @@ Extensive exploratory data analysis (EDA) in Python using Jupyter Notebook on li
 
 - **Source**: [NOAA’s National Centers for Environmental Information (NCEI)](https://www.ncei.noaa.gov/products/lightning-products)
 
- Due to file size restrictions, raw data is **not included in this repository**. You can download the datasets from the shared Google Drive folder:  
+Due to file size restrictions, raw data is **not included in this repository**. You can download the datasets from the shared Google Drive folder:  
 
-[Google Drive Folder]([https://drive.google.com/your-shared-folder-link](https://drive.google.com/drive/folders/17eOqf2fUbJs4qYB298H0QFHYXXI4b7DL?usp=sharing))
+[Google Drive Folder](https://drive.google.com/drive/folders/17eOqf2fUbJs4qYB298H0QFHYXXI4b7DL?usp=sharing)
 
 ## Technologies Used
 
