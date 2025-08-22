@@ -5,7 +5,7 @@ Extensive exploratory data analysis (EDA) in Python using Jupyter Notebook on li
 - Structuring and cleaning the data  
 - Handling missing values  
 - Detecting and addressing outliers  
-- Building diverse plots and maps to reveal meaningful patterns and insights  
+- Building diverse charts and maps to reveal meaningful patterns and insights  
 - And more  
 
 ## Datasets
