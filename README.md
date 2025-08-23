@@ -1,5 +1,7 @@
 # ⚡ NOAA Lightning Strikes — Exploratory Data Analysis
 
+(⚠️ IMPORTANT: If you encounter an 'Unable to render code block' error when trying to open 'noaa_lightning_eda.ipynb' directly on the GitHub repository website, try downloading the file and opening it locally instead.)
+
 Extensive exploratory data analysis (EDA) in Python using Jupyter Notebook on lightning strike datasets collected by the National Oceanic and Atmospheric Administration (NOAA). The notebook involved:
 
 - Structuring data  
