@@ -1,12 +1,13 @@
 # ⚡ NOAA Lightning Strikes — Exploratory Data Analysis
 
-Extensive exploratory data analysis (EDA) in Python using Jupyter Notebook on lightning strike datasets collected by the National Oceanic and Atmospheric Administration (NOAA). The project involved:
+Extensive exploratory data analysis (EDA) in Python using Jupyter Notebook on lightning strike datasets collected by the National Oceanic and Atmospheric Administration (NOAA). The notebook involved:
 
-- Structuring and cleaning the data  
+- Structuring data  
 - Handling missing values  
-- Detecting and addressing outliers  
+- Detecting and addressing outliers
+- Applying label encoding to categorical variables
+- Validating input
 - Building diverse charts and maps to reveal meaningful patterns and insights  
-- And more  
 
 ## Datasets
 
