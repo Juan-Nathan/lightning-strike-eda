@@ -1,4 +1,4 @@
-# ⚡ NOAA Lightning Strikes — Exploratory Data Analysis
+# ⚡ NOAA Lightning Strikes: Exploratory Data Analysis
 
 ⚠️ **IMPORTANT**: If you encounter an `Unable to render code block` error when trying to open `noaa_lightning_eda.ipynb` directly on the GitHub repository website, try downloading the file and opening it locally instead.
 
