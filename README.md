@@ -15,7 +15,7 @@ This project performs **extensive exploratory data analysis** in Python on light
 
 ## Datasets
 
-- **Source**: [NOAA’s National Centers for Environmental Information (NCEI)](https://www.ncei.noaa.gov/products/lightning-products)
+- **Source**: [NOAA’s National Centers for Environmental Information](https://www.ncei.noaa.gov/products/lightning-products)
 
 Due to file size restrictions, datasets are **not included in this repository**. You can download them from the shared Google Drive folder:  
 
