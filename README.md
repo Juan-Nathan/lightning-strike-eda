@@ -1,6 +1,6 @@
 # ⚡ Exploratory Data Analysis of Lightning Strike Data
 
-⚠️ **IMPORTANT**: If you encounter an `Unable to render code block` error when trying to open `noaa_lightning_eda.ipynb` directly on the GitHub repository website, try downloading the file and opening it locally instead.
+⚠️ **IMPORTANT**: If you encounter an `Unable to render code block` error when trying to open `lightning_strike_eda.ipynb` directly on the GitHub repository website, try downloading the file and opening it locally instead.
 
 ---
 
