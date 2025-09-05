@@ -33,7 +33,7 @@ Due to file size restrictions, datasets are **not included in this repository**.
 2. Download the datasets from the shared Google Drive folder.
 3. Place the dataset files in the same directory as `noaa_lightning_eda.ipynb`.
 4. Open the project folder in your preferred environment.
-5. Open `noaa_lightning_eda.ipynb` and run the cells.
+5. Open `lightning_strike_eda.ipynb` and run the cells.
 
 ## Author
 
