@@ -11,7 +11,7 @@ This project performs **extensive exploratory data analysis** in Python on light
 - Detecting and addressing outliers
 - Applying label encoding to categorical variables
 - Validating input
-- Building diverse charts and maps to reveal meaningful patterns and insights  
+- Building various charts and maps to reveal meaningful patterns and insights  
 
 ## Datasets
 
